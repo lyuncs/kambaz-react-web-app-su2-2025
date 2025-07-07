@@ -1,4 +1,4 @@
-import { Labs } from "./Labs/index.tsx";
+import Labs from "./Labs";
 
 function App() {
   return (
