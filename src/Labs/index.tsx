@@ -10,6 +10,10 @@ export default function Labs() {
   return (
     <div>
       <h1>Labs</h1>
+      <div className="student-info">
+        <p><strong>Student:</strong> Yun Li</p>
+        <p><strong>Section:</strong> Summer2 2025</p>
+      </div>
       <TOC />
       <p>Welcome to the Labs section!</p>
       <Routes>
