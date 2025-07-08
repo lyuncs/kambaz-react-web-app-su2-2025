@@ -194,7 +194,6 @@ export default function Lab1() {
             title="The last name" 
             id="wd-text-fields-last-name" 
           />
-          {/* copy rest of form elements here */}
         </form>
       </div>
       <div>
